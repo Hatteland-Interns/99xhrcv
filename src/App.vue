@@ -1,6 +1,4 @@
 <template>
-  Head Part
-
   <router-view />
 </template>
 
